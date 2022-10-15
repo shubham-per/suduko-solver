@@ -72,5 +72,15 @@ bool solveSudoku(){
       }
    }
    return false;
+}
 
+int main()
+{
+   
+if (solveSudoku() == true)
+      sudokuGrid();
+   
+else
+      
+cout << "No solution exists";
 }
