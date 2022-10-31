@@ -83,4 +83,5 @@ if (solveSudoku() == true)
 else
       
 cout << "No solution exists";
+   cout <<"Just like your relationship">>;
 }
